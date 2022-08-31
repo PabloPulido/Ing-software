@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'calibri';
+ 
+}
+
+main{
+
+    margin: 0 auto;
+    margin-top: 250px;
+    width: 600px;
+
+
+
+}
+
+main div{
+
+    margin: 100px;
+}
+
+h2{
+    color: blue;
+    margin-bottom: 30px;
+    font-size: 36px;
+    
+
+    
+
+
+   
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    margin: 0 auto;
+    width: 200px;
+
+}

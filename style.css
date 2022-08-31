@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'calibri'
+}
+
+.formulario{
+
+    background-color: #24303c;
+    padding: 24px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    width: 600px;
+
+    height: 450px;
+    
+}
+
+
+.usuario{
+    width: 100%;
+    background-color: #24303c;
+    padding: 8px;
+    border-radius: 2px;
+    padding: 8px;
+ 
+    
+}
+
+.clave{
+
+    width: 100%;
+    margin-top: 12px;
+    margin-bottom: 36px;
+    background-color: #24303c;
+    padding: 8px;
+    border-radius: 2px;
+
+}
+
+
+
+.formulario h2 {
+    font-size: 28px;
+    margin-bottom: 24px;
+    margin-top: 30px;
+    text-align: center;
+    color: aliceblue;
+}
+
+.formulario h4 {
+    font-size: 20px;
+    margin-bottom: 24px;
+    margin-top: 30px;
+    text-align: center;
+    color: aliceblue;
+}
+
+
+.enviar{
+
+    margin-top: 36px;
+    text-decoration: 0;
+    width: 100%;
+    height: 48px;
+    margin-bottom: 12px;
+    background-color: blue;
+    font-size: 24px;
+    cursor: pointer;
+  
+    
+
+}
+
+.formulario p {
+
+    height: 16px;
+    text-align: center;
+    color: aliceblue;
+    
+}
+
+.formulario a {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.usuario::placeholder {
+    text-align: center;
+    padding-top: 30px;
+  }
+
+  .clave::placeholder {
+    text-align: center;
+    padding-top: 30px;
+  }
+
+  .enviar::placeholder{
+
+    text-align: center;
+    padding-top: 30px;
+    color: aliceblue;
+    
+  }
+
