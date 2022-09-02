@@ -14,7 +14,7 @@
     border-radius: 4px;
     width: 600px;
 
-    height: 450px;
+    height: 500px;
     
 }
 
@@ -25,6 +25,8 @@
     padding: 8px;
     border-radius: 2px;
     padding: 8px;
+    font-size: 20px;
+    color: white;
  
     
 }
@@ -37,6 +39,8 @@
     background-color: #24303c;
     padding: 8px;
     border-radius: 2px;
+    font-size: 20px;
+    color: white;
 
 }
 
@@ -105,3 +109,10 @@
     
   }
 
+  .formulario h3 {
+    color: red;
+    margin-top: 20px;
+    text-align: center;
+  }
+    
+  
